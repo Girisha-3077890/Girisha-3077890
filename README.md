@@ -2,7 +2,7 @@
 
 **Salesforce Certified Platform Developer I | Apex | LWC | Flows**
 
-> Final-year B.Tech student transitioning from Data Analytics to Salesforce Development.
+> Final-year B.Tech student Salesforce Development.
 
 **🔥 Trailhead:** 55 Badges | 7 Superbadges | 64,000+ Points | Agentblazer Champion '26
 **🔗 Trailblazer:** trailblazer.me/id/fdsp15w2k2e8iryb9
